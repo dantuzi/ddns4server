@@ -1,0 +1,8 @@
+{
+  "server_subdomain": "dns-upd-test",
+  "godaddy": {
+    "api_key": "<DNS_API_KEY>",
+    "api_secret": "<DNS_API_SECRET>",
+    "root_domain": "ddns4s.com"
+  }
+}
